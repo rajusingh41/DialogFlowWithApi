@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hr-joy",
+  "private_key_id": "26ab70a34ae282e9e29176230f7c2aad2c4ee05c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDz9qgfog4qLQ3l\nwWkielfq4eS5TyFBW7b7wNMnWgqTffv5BoZfUBZ9FFSK5w63kO7smHT67LEem9zu\ncQSDqu8VSdxYhvq7DBNO1FglUgV/l1lwizflgeSP95agq/vzgcUfu3aAZjsqUm41\nFdqWxFi61+DLrhJ5tznn+e0s3XYuRYV0BRPoqPRnKLeXIkY2GvVNosCTOqtwj6MF\nN+A6j0q+kHGMW7fnBJUeVB2uTxgTEei+JCvjHHCoIAH+sG0GDsyLNeOgqr/Ur8Gb\n1ShQI4n6XfIPC5Fcu3IiNr8FWD3XcE6rTfWl+3o4Wq96IBvVLor9cYgQSP2uwQ4C\nD+a+W7TzAgMBAAECggEANSbzuTSe/mxjfz+0zri2B+wgX4lQdwNq6g24U3YIINtN\ndxOHWiPCSo0P4FV3/OF8VJrgvbys2DzgFSkVcTRgM5Ssh7Mc1HzMhhu4eqUUophQ\nebczPfMfX4hzTl06HvMShhfbOR1M3aso7LLutXNg25BmHyo1R0R2vsZSeLhlY63/\n+h6gSHT9dRv2+ibBHDjpRW0sf3PyjAKTUDH3SG203nvvtiiiSjOiijnAmHqKO5mj\nPC04xNovqwqixn0x68KzI3ZVsbHE1h99hVeTurjx8H40cDhGl5xj2nB6X6vQ3wNd\nMSr096SACJNlPWBSmdI4GslYcV1lkR3fRBmYYTzijQKBgQD/PTj/Y89Y05Dw3NtE\nVrfTdBnS039+QDJjYF/UOHXtKYQWvrSShdYbNDfWfVpdo5njgDm3atPQevO5DB2O\nwFEd+87KcKOCqSY2JiIRGhj8ZP6O0sVG1lIc8rWcFbAyfjiYcBPv2zOmiBtmb265\nJ2OTZnlNYKjQ7d1po3A7ZfS/1QKBgQD0sNRWlgVrPO8m5+33iXPw2kDGSzYSO7zw\na2c4Qk2fl/TNJzPM5MqGwRMXuEzKv5QCvDDhmkl1gpvDGtxeudaffOaCJxmrYcRN\n/jWqrBU+rcfKLSyqNuV7rqtV+j15KHbc/k9dX66UY3ns9AnWv744jjieCT83OUr6\ncES05UHNpwKBgC6ZQde2pDtmXNbsq4d9gZA0aSaJgIRPOiPUi4pWSIllA/2XEaaS\nkrViwjMBrcbcwJK9bUwkT8mHOQn2wUq3p9eeinGBQQjw0s4eBigzKI6j7amrp2K4\nbENmuGtntkRxsOl7xNgMoBBuVvpLq95X56EYm1raI9gJJVxM/4eIpLeFAoGALqIM\ntbu9qKRiR53oAkcV648MzT3EPlFYPtGZSGWKeaHyK68O9jucRXZCd0DOkc1VHfhT\nsItA+L49hT93RC5Ssu6Q17kv8TOev+Z0v+Qv4FQqQWO+oWn47ktpp+cbFB4cGR32\nbiswEGOs9vXDckP0sr6YF7ZXb+ThXz1KOtd+ZP0CgYAL5KyRhbemSLnofqY7jtvX\nVpxiIg6D03TRl/awMdWDk0jRxcZSCR/AtuMVZtLB6uVcNOzy5IDTtvVOBdPsrxOC\n/JN/PcH3m4SQyIMxiPvGOE/Qj+zgH8XMvNwBr+4wJ+YXDmuGhfyidvKfkvz/HllX\nQMN6D8EwIQ2+BDZ7b46Pxw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hr-joy@appspot.gserviceaccount.com",
+  "client_id": "115679894199384391201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hr-joy%40appspot.gserviceaccount.com"
+}
